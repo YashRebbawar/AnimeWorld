@@ -1,0 +1,36 @@
+html {
+    background-color: ghostwhite;
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    padding: 0px 100px;
+    border: 5px solid black;
+}
+
+p {
+    font-size: 27px;
+    font-style: normal;
+    color: black
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 20px 0;
+    margin: 0;
+}
+
+h2 {
+    color: black;
+}
+
+li {
+    font-size: 27px;
+}
+
+img {
+    align-items: center;
+}
